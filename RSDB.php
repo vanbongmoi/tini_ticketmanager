@@ -1,0 +1,1 @@
+<span class="menu"><a  style="font-size: 60px; " href="resetdatabase.php" >Reset Data Base</a></span>

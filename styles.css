@@ -1,0 +1,38 @@
+a 
+{
+ text-decoration: none;
+}
+.DSseri
+{
+height: auto;
+color: Green;
+font-size: 40px;
+overflow: auto;
+}
+.productName
+{
+height: 400px;
+}
+.maygame
+{
+float: left;
+width:33%;
+overflow: auto;
+}
+.ca
+{
+color:orange;
+margin:5px 50px 5px 5px;
+font-size:18px;
+}
+table, th, td
+ {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+footer
+{
+	width: 100%;
+	clear: right;
+	clear: left;
+}
